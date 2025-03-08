@@ -1,0 +1,19 @@
+{
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "latedef": true,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "quotmark": true,
+  "browser":true,
+  "node":true,
+  "globals":{
+    "define":true,
+    "module":true
+  }
+}
